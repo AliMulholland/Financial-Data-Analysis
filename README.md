@@ -103,11 +103,3 @@ The project explores several key financial concepts:
 
 Author: Ali Mulholland
 Physics BSc @ The Univeristy of Edinburgh
-
-
-
-yfinance
-
-Key Insight
-
-Financial return distributions show fat tails, meaning extreme market movements occur more frequently than predicted by a normal distribution. Additionally, correlations between stocks increase significantly during market crises.
