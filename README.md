@@ -1,2 +1,1 @@
-# Financial-Data-Analysis
-A 
+# Financial-Data-
